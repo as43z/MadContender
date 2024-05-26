@@ -1,0 +1,7 @@
+-Wall
+-Wextra
+-pedantic
+-I
+thirdparties/gmp-6.3.0
+-l
+thirdparties/gmp-6.3.0/.libs/libgmp.a

@@ -2,6 +2,6 @@
 -Wextra
 -pedantic
 -I
-thirdparties/gmp-6.3.0
+/opt/homebrew/Cellar/gmp/6.3.0/include
 -l
-thirdparties/gmp-6.3.0/.libs/libgmp.a
+/opt/homebrew/Cellar/gmp/6.3.0/lib/libgmp.a
